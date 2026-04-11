@@ -1,0 +1,31 @@
+# 🍔 DB's Burgers - New York's Favorite Burger
+
+A vibrant, fully animated landing page for DB's Burgers, a fictional burger restaurant with a bold personality and plant-based options.
+
+![DB's Burgers Preview](https://i.imgur.com/aMLtAbd.png)
+
+## 📋 Project Overview
+
+DB's Burgers is a responsive, interactive landing page built with vanilla HTML, CSS, and JavaScript. It features smooth animations, a mobile-friendly hamburger menu, and engaging scroll-based effects that showcase the brand's playful identity.
+
+### 🌟 Key Features
+
+- **Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- **Interactive Hamburger Menu** - Smooth mobile navigation with animated transitions
+- **Scroll-Based Animations** - Banner marquee effects that respond to scroll position
+- **Hover Animations** - Burger cards with 3D sway effects and image lift
+- **Custom Typography** - Oswald and Bowlby One fonts for bold, distinctive branding
+- **Smooth Section Navigation** - Click-to-scroll functionality for all menu items
+- **Dynamic Content** - JavaScript-generated repeating banner text
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic structure and content |
+| CSS3 | Styling, animations, and responsive layouts |
+| JavaScript (ES6+) | Interactivity and dynamic behavior |
+| Google Fonts | Oswald & Bowlby One typefaces |
+| SVG Icons | Scalable menu and rating icons |
+
+## 📁 Project Structure
